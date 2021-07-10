@@ -7,7 +7,7 @@ Senior George Washington University
 
 <h2>Connect</h2>
 
-<a href="https://www.linkedin.com/in/camab"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/cameronabeel"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <br>
 
 <h2>Expertise</h2>
